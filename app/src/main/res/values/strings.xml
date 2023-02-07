@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArithmeticOCR</string>
+    <string name="label_use_database_storage">Use Database Storage</string>
+    <string name="label_use_file_storage">Use File Storage</string>
+    <string name="temp_images_dir">temp_images</string>
+    <string name="temp_image">temp_image.jpg</string>
+    <string name="authorities">com.kevin.fileprovider</string>
+</resources>
